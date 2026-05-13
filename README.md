@@ -1,5 +1,5 @@
-# Luke's GitHub
-Welcome to my GitHub page. My name is Luke Venkataramanan, and I graduated from the University of Texas at Austin in May 2026, where I studied Computational Engineering. Starting in June 2026, I will be a software engineer at SpaceX.
+# Luke Venkataramanan
+My name is Luke Venkataramanan, and I graduated from the University of Texas at Austin in May 2026, where I studied Computational Engineering. Starting in June 2026, I will be a software engineer at SpaceX.
 
 ## Highlighted Projects
 ### Premier League Predictor
